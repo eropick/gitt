@@ -1,0 +1,6 @@
+﻿  소스.cpp
+C:\Users\KGT\Desktop\C언어\C학습결과\3차원배열파라미터할당\3차원배열파라미터할당\소스.cpp(4,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\KGT\Desktop\C언어\C학습결과\3차원배열파라미터할당\3차원배열파라미터할당\소스.cpp(4,12): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\KGT\Desktop\C언어\C학습결과\3차원배열파라미터할당\3차원배열파라미터할당\소스.cpp(16,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int (*)[2][3]'입니다.
+C:\Users\KGT\Desktop\C언어\C학습결과\3차원배열파라미터할당\3차원배열파라미터할당\소스.cpp(16,12): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int (*)[2][3]' 형식의 인수 1과(와) 충돌합니다.
+  3차원배열파라미터할당.vcxproj -> C:\Users\KGT\Desktop\C언어\C학습결과\3차원배열파라미터할당\x64\Debug\3차원배열파라미터할당.exe
